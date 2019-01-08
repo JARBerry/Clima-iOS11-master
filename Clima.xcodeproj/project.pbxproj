@@ -138,7 +138,6 @@
 				63E28AC81B99C32400FBF6E0 /* Frameworks */,
 				63E28AC91B99C32400FBF6E0 /* Resources */,
 				A7C6602D32C40955C8B7D401 /* [CP] Embed Pods Frameworks */,
-				63382BEB65D2BE452EA5E78C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -162,7 +161,7 @@
 					63E28ACA1B99C32400FBF6E0 = {
 						CreatedOnToolsVersion = 6.4;
 						DevelopmentTeam = DRHGZRH3X9;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1010;
 					};
 				};
 			};
@@ -198,21 +197,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		63382BEB65D2BE452EA5E78C /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Clima/Pods-Clima-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		A7C6602D32C40955C8B7D401 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -384,8 +368,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Jarberry.Clima;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -400,8 +383,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Jarberry.Clima;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};

@@ -1,11 +1,12 @@
-# Clima-iOS11-master
+# Clima-Weather-App
 
 
 ## Overview
 
 Weather App using REST APIs; JSON & GPS location data to retrieve the temperature & weather data.
 
-
+![image](https://user-images.githubusercontent.com/36542195/50841327-65f53b00-135c-11e9-87aa-59797d4a9406.png)
+![image 2](https://user-images.githubusercontent.com/36542195/50841333-68f02b80-135c-11e9-8062-4188993f7cf2.png)
 
 
 ## Features in this demo

@@ -156,7 +156,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = "London App Brewery";
+				ORGANIZATIONNAME = JARBerry;
 				TargetAttributes = {
 					63E28ACA1B99C32400FBF6E0 = {
 						CreatedOnToolsVersion = 6.4;
